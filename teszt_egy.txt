@@ -1,2 +1,3 @@
 ﻿Ide szöveg aztán meglájuk.
 új sor   ezt a feature 1 módosította
+új sor   branch teszt módosította
