@@ -1,2 +1,2 @@
 ﻿Ide szöveg aztán meglájuk.
-új sor
+új sor   ezt a feature 1 módosította
